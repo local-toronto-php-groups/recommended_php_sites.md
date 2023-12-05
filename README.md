@@ -13,7 +13,8 @@ PHP sites:
 ##
 Laravel:
 - [https://stateoflaravel.com/results](https://stateoflaravel.com/results)
-- [https://muhammedsari.me/unorthodox-eloquent](https://muhammedsari.me/unorthodox-eloquent)+
+- [https://muhammedsari.me/unorthodox-eloquent](https://muhammedsari.me/unorthodox-eloquent)
+- [Laravel Magazine](https://laravelmagazine.com)
 
 ##
 Hodge-Podge:
