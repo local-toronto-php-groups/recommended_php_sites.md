@@ -14,3 +14,7 @@ PHP sites:
 Laravel:
 - [https://stateoflaravel.com/results](https://stateoflaravel.com/results)
 - [https://muhammedsari.me/unorthodox-eloquent](https://muhammedsari.me/unorthodox-eloquent)+
+
+##
+Hodge-Podge:
+- [Vue.js: The Documentary (YouTube video)](https://www.youtube.com/watch?v=OrxmtDw4pVI)
