@@ -22,7 +22,7 @@ Laravel:
 - [https://muhammedsari.me/unorthodox-eloquent](https://muhammedsari.me/unorthodox-eloquent)
 - [Laravel Magazine](https://laravelmagazine.com)
 - [Laravel News](https://laravel-news.com)
-- [Laravel News podcast}(https://podcast.laravel-news.com)
+- [Laravel News podcast](https://podcast.laravel-news.com)
 
 ##
 Hodge-Podge:
