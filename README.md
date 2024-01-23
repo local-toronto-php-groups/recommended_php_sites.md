@@ -1,9 +1,7 @@
 # List of Recommended PHP Sites
 
-At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here. 
-
-##
-- Call for public comments on PECL migration (Dec 2023): [https://externals.io/message/121927](https://externals.io/message/121927)
+- At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
+- last update: January 23, 2024
 
 ##
 PHP sites:
@@ -26,4 +24,6 @@ Laravel:
 
 ##
 Hodge-Podge:
+- [Call for public comments on PECL migration (Dec 2023)](https://externals.io/message/121927)
 - [Vue.js: The Documentary (YouTube video)](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+- [Laravel Security: "Androxgh0st" Malware Targeting Laravel apps?](https://securinglaravel.com/p/laravel-security-androxgh0st-malware)
