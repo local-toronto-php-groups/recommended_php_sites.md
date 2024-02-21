@@ -22,6 +22,10 @@ Laravel:
 - [Laravel News](https://laravel-news.com)
 - [Laravel News podcast](https://podcast.laravel-news.com)
 
+## 
+Conferences:
+- [PHP UK 2024 - YouTube playlist](https://www.youtube.com/playlist?list=PL_aPVo2HeGF-xaeC3amS4xSmPisiYQxgV)
+
 ##
 Hodge-Podge:
 - [Call for public comments on PECL migration (Dec 2023)](https://externals.io/message/121927)
