@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: January 23, 2024
+- last update: March 26, 2024
 
 ##
 PHP sites:
@@ -13,6 +13,7 @@ PHP sites:
 - Curated list of PHP YouTubers:
   - mentioned on PHP Ugly [https://phpugly.com/episodes/362](https://phpugly.com/episodes/362)
   - [https://github.com/php-youtubers/directory](https://github.com/php-youtubers/directory)
+  - [PHP For Beginners 2023 -- 50 YouTube videos by Laracasts](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
 
 ##
 Laravel:
