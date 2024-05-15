@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: May 10, 2024
+- last update: May 15, 2024
 
 ##
 PHP sites:
@@ -34,3 +34,7 @@ Hodge-Podge:
 - [Vue.js: The Documentary (YouTube video)](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [Laravel Security: "Androxgh0st" Malware Targeting Laravel apps?](https://securinglaravel.com/p/laravel-security-androxgh0st-malware)
 - [ROMAN PRONSKIY :: THE PHP FOUNDATION](https://www.youtube.com/watch?v=XE4g1Tl6RQw)
+- [Scott discusses MergePHP with Logan Lindquist and the state of the in person PHP User Group (YT vid, php(architect) channel](https://www.youtube.com/watch?v=yftyf0aYtb8)
+  - my personal view is that "meet-up" is a literal term!
+
+  
