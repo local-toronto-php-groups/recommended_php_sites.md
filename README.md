@@ -1,19 +1,34 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: May 15, 2024
+- last update: July 17, 2024
 
 ##
-PHP sites:
-- [https://www.php.net](https://www.php.net)
-- [https://www.youtube.com/@ProgramWithGio](https://www.youtube.com/@ProgramWithGio)
-- [https://www.youtube.com/@phpannotated](https://www.youtube.com/@phpannotated)
+Sites:
+- [https://www.php.net](https://www.php.net) 
 - [https://www.phpweekly.com](https://www.phpweekly.com)
 - [https://php.watch](https://php.watch)
-- Curated list of PHP YouTubers:
-  - mentioned on PHP Ugly [https://phpugly.com/episodes/362](https://phpugly.com/episodes/362)
-  - [https://github.com/php-youtubers/directory](https://github.com/php-youtubers/directory)
-  - [PHP For Beginners 2023 -- 50 YouTube videos by Laracasts](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
+- [https://www.phparch.com](https://www.phparch.com)
+
+##
+YouTube:
+- [https://www.youtube.com/@Phparch](https://www.youtube.com/@Phparch)
+- [https://www.youtube.com/@phpannotated](https://www.youtube.com/@phpannotated)
+- [https://www.youtube.com/@ProgramWithGio](https://www.youtube.com/@ProgramWithGio)
+- [PHP For Beginners 2023 -- 50 YouTube videos by Laracasts](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
+- [https://www.youtube.com/@CodewithBurt](https://www.youtube.com/@CodewithBurt/videos)
+- [https://github.com/php-youtubers/directory](https://github.com/php-youtubers/directory)
+- [my YouTube playlist for our Groups!](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
+
+##
+Podcasts:
+- [https://phpugly.com](https://phpugly.com)
+- [https://phproundtable.com](https://phproundtable.com)
+- [https://voicesoftheelephpant.com](https://voicesoftheelephpant.com) --> discontinued, but good interviews!
+- [https://phpinternals.news](https://phpinternals.news) --> discontinued, but good topics!
+- [The Bob Bloom Show -- PHP serverless commentary](https://bobbloomshow.com)
+- [my "PHP Serverless News"-- Profiles of PHP serverless vendors and projects](https://phpserverlessnews.com)
+
 
 ##
 Laravel:
@@ -22,6 +37,13 @@ Laravel:
 - [Laravel Magazine](https://laravelmagazine.com)
 - [Laravel News](https://laravel-news.com)
 - [Laravel News podcast](https://podcast.laravel-news.com)
+- [https://www.northmeetssouth.audio](https://www.northmeetssouth.audio) --> not strictly PHP/Laravel
+
+##
+WordPress:
+
+(FYI: I know more about WordPress than I let on...)
+- [https://wpbuilds.com](https://wpbuilds.com) 
 
 ## 
 Conferences:
