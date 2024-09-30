@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: July 25, 2024
+- last update: Sep 30, 2024
 
 ## 
 FOSS:
@@ -14,6 +14,8 @@ Sites:
 - [https://www.phpweekly.com](https://www.phpweekly.com)
 - [https://php.watch](https://php.watch)
 - [https://www.phparch.com](https://www.phparch.com)
+- [https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/)
+- [https://www.reddit.com/r/PHP/](https://www.reddit.com/r/PHP/) 
 
 ##
 YouTube:
