@@ -6,7 +6,8 @@
 ## 
 FOSS:
 
-- Good talk goes over FOSS history, etc: [https://www.youtube.com/watch?v=vzYqxo13I1U](https://www.youtube.com/watch?v=vzYqxo13I1U)
+- [https://www.youtube.com/watch?v=vzYqxo13I1U](https://www.youtube.com/watch?v=vzYqxo13I1U) Good talk goes over FOSS history, etc
+- [https://www.youtube.com/playlist?list=PLp_L1ltSVItw7qCkyIH3wzaTbTVmFzPRg](https://www.youtube.com/playlist?list=PLp_L1ltSVItw7qCkyIH3wzaTbTVmFzPRg) half-a-dozen videos on OSS history
 
 ##
 Sites:
