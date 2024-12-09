@@ -30,7 +30,8 @@ YouTube:
 
 ##
 Podcasts:
-- [https://phpugly.com](https://phpugly.com)
+- [https://phpugly.com](https://phpugly.com) --> last episode October 31, 2024, continued as php[podcast]
+- [php[podcast], the official podcast of php[architect]](https://www.youtube.com/playlist?list=PLJPRYJOPv4pTJaGCHn5-F88iQOjeVpJEi)
 - [https://phproundtable.com](https://phproundtable.com)
 - [https://voicesoftheelephpant.com](https://voicesoftheelephpant.com) --> discontinued, but good interviews!
 - [https://phpinternals.news](https://phpinternals.news) --> discontinued, but good topics!
