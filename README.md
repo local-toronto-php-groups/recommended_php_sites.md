@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Dec 19, 2024
+- last update: Jan 12, 2025
 
 ## 
 FOSS:
@@ -27,6 +27,7 @@ YouTube:
 - [https://www.youtube.com/@CodewithBurt](https://www.youtube.com/@CodewithBurt/videos)
 - [https://github.com/php-youtubers/directory](https://github.com/php-youtubers/directory)
 - [my YouTube playlist for our Groups!](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
+- [https://www.youtube.com/@nunomaduro](https://www.youtube.com/@nunomaduro)
 
 ##
 Podcasts:
@@ -68,5 +69,6 @@ Hodge-Podge:
 - [Nuno Maduro talks to Roman Pronskiy about the history of the PHP Foundation, among other things](https://www.youtube.com/watch?v=BvAcP6RtlAA)
 - [Scott discusses MergePHP with Logan Lindquist and the state of the in person PHP User Group (YT vid, php(architect) channel](https://www.youtube.com/watch?v=yftyf0aYtb8)
   - my personal view is that "meet-up" is a literal term!
+- [10 new Git commands you should start using today](https://appwrite.io/blog/post/10-git-commands-you-should-start-using)
 
   
