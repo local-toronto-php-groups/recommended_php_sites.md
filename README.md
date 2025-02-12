@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Jan 12, 2025
+- last update: Feb 12, 2025
 
 ## 
 FOSS:
@@ -70,5 +70,6 @@ Hodge-Podge:
 - [Scott discusses MergePHP with Logan Lindquist and the state of the in person PHP User Group (YT vid, php(architect) channel](https://www.youtube.com/watch?v=yftyf0aYtb8)
   - my personal view is that "meet-up" is a literal term!
 - [10 new Git commands you should start using today](https://appwrite.io/blog/post/10-git-commands-you-should-start-using)
+- [Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
 
   
