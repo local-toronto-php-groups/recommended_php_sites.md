@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Feb 12, 2025
+- last update: Feb 24, 2025
 
 ## 
 FOSS:
@@ -58,10 +58,12 @@ WordPress:
 ## 
 Conferences:
 - [PHP UK 2024 - YouTube playlist](https://www.youtube.com/playlist?list=PL_aPVo2HeGF-xaeC3amS4xSmPisiYQxgV)
+- [LaraConEU 2025](https://www.youtube.com/watch?v=ru-0QSciNvU&list=PLMdXHJK-lGoBWLQkMSyUORJkGk3ou27YI)
 - [LaraConEU 2024](https://www.youtube.com/playlist?list=PLMdXHJK-lGoDWVGSbn7iHkE3YW6qTh577)
 
 ##
 Hodge-Podge:
+- [NativePHP for iOS with Simon Hamp](https://www.youtube.com/watch?v=xfeLgTmq4Jg)
 - [Call for public comments on PECL migration (Dec 2023)](https://externals.io/message/121927)
 - [Vue.js: The Documentary (YouTube video)](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [Laravel Security: "Androxgh0st" Malware Targeting Laravel apps?](https://securinglaravel.com/p/laravel-security-androxgh0st-malware)
