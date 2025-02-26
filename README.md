@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Feb 24, 2025
+- last update: Feb 26, 2025
 
 ## 
 FOSS:
