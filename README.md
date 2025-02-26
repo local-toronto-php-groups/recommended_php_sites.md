@@ -48,6 +48,7 @@ Laravel:
 - [Laravel News](https://laravel-news.com)
 - [Laravel News podcast](https://podcast.laravel-news.com)
 - [https://www.northmeetssouth.audio](https://www.northmeetssouth.audio) --> not strictly PHP/Laravel
+- [https://ashallendesign.co.uk/blog/laravel-prevent-destructive-commands](https://ashallendesign.co.uk/blog/laravel-prevent-destructive-commands)
 
 ##
 WordPress:
@@ -64,6 +65,7 @@ Conferences:
 ##
 Hodge-Podge:
 - [NativePHP for iOS with Simon Hamp](https://www.youtube.com/watch?v=xfeLgTmq4Jg)
+- [NativePHP for iOS links at our April 24, 2025 meet-up page](https://github.com/local-toronto-php-groups/2025apr24_laravel_toronto)
 - [Call for public comments on PECL migration (Dec 2023)](https://externals.io/message/121927)
 - [Vue.js: The Documentary (YouTube video)](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [Laravel Security: "Androxgh0st" Malware Targeting Laravel apps?](https://securinglaravel.com/p/laravel-security-androxgh0st-malware)
