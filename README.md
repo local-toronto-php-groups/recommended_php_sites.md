@@ -1,7 +1,7 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Feb 26, 2025
+- last update: Mar 05, 2025
 
 ## 
 FOSS:
@@ -49,6 +49,7 @@ Laravel:
 - [Laravel News podcast](https://podcast.laravel-news.com)
 - [https://www.northmeetssouth.audio](https://www.northmeetssouth.audio) --> not strictly PHP/Laravel
 - [https://ashallendesign.co.uk/blog/laravel-prevent-destructive-commands](https://ashallendesign.co.uk/blog/laravel-prevent-destructive-commands)
+- see the Laravel Cloud links at [https://github.com/local-toronto-php-groups/2025mar27_meetup_laravel_toronto](https://github.com/local-toronto-php-groups/2025mar27_meetup_laravel_toronto)
 
 ##
 WordPress:
