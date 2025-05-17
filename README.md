@@ -1,7 +1,12 @@
 # List of Recommended PHP Sites
 
 - At a recent meet-up, we were asked "I am new to PHP. What websites do you recommend?". So, I thought I would jot down a few links here.
-- last update: Mar 05, 2025
+- last update: May 17, 2025
+
+##
+Simon Hamp publiished a brilliant episode about the economics of NativePHP (Desktop and Mobile). Which is also an outstanding first-person real-time perspective on the economics of Open Source Software. There is a very obvious passion and dedication to OSS, and to PHP. I urge you to listen to this episode!
+- [(Podcast) "Simon Share" episode 28: Pillars (May 17, 2025)](https://simonhamp.transistor.fm/28)
+
 
 ## 
 FOSS:
